@@ -1,6 +1,6 @@
 How to flash custom rom
 
-!!!You need PC or laptop than van connect to device and BACKUP YOUR DATA!!!
+!!!You need PC or laptop than can connect to device and BACKUP YOUR DATA!!!
 
 1.Install ADB and Fastboot on your PC(Search for guide on Google or Youtube)
 
@@ -19,4 +19,4 @@ How to flash custom rom
 6.When ROM flash done,choose Reboot system now, and enjoy yourself :)
 
 
-Late Updated:2022/06/05 5:40 UTC+8
+Late Updated:2022/06/05 6:29 UTC+8
