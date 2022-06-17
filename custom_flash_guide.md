@@ -38,7 +38,11 @@ to sideload ROM package
 
     fastboot set_active a
 
-to switch to slot a,then choose Reboot system now, and enjoy yourself :)
+to switch to slot a,then Reboot system,type:
+
+    fastboot reboot
+
+ and enjoy yourself :)
 
 
-Late Updated:2022/06/14 00:42 UTC+8
+Late Updated:2022/06/18 00:06 UTC+8
