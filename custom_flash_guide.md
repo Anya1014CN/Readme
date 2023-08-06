@@ -5,7 +5,9 @@ How to flash custom rom
 1.Install ADB and Fastboot on your PC(Search for guide on Google or Youtube)
 
 2.Download LineageOS Recovery on your PC
-[For Chopin](https://get.hancf.cn/Mi/chopin/chopin-los-rec.img)  or  [For choping](https://get.hancf.cn/Mi/choping/choping-los-rec.img)
+[For Android11](https://hancf.eu.org/Mi/chopin/chopin-rec-11.img)
+
+[For Android12+](https://hancf.eu.org/Mi/chopin/chopin-rec-12.img)
 
 2.Turn your phone into fastboot mode,start cmd or powershell,type:
 
