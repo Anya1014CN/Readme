@@ -5,7 +5,7 @@
 1.在电脑上安装ADB和fastboot(自行搜索，这里不提供教程)
 
 2.在电脑上下载LineageOS Recovery
-[国行版-Chopin](https://get.hancf.cn/Mi/chopin/chopin-los-rec.img)  或者  [全球版-choping](https://get.hancf.cn/Mi/choping/choping-los-rec.img)
+[Android11](https://hancf.eu.org/Mi/chopin/chopin-rec-11.img)  或者  [Android12+]([https://get.hancf.cn/Mi/choping/choping-los-rec.img](https://hancf.eu.org/Mi/chopin/chopin-rec-12.img))
 
 2.进入fastboot模式，然后 Windows徽标 + R ，输入cmd并回车，打开命令提示符，输入：
 
